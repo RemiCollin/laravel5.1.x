@@ -1,0 +1,19 @@
+{
+  "name": "laravel5.1",
+  "version": "0.0.0",
+  "authors": [
+    "Rémi Collin <remi@plateau.io>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bourbon": "~4.2.4",
+    "neat": "~1.7.2"
+  }
+}
